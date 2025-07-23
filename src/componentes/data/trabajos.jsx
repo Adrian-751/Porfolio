@@ -3,7 +3,7 @@ const trabajos = [
 		id: 1,
 		categoria: 'diseño-web',
 		thumb: {
-			url: '/assets/trabajos/diseño-1.png',
+			url: '/Porfolio/assets/trabajos/diseño-1.png',
 			alt: 'Trabajo 1',
 		},
 		info: {
@@ -17,7 +17,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/2.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/2.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -25,7 +25,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/3.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/3.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -40,7 +40,7 @@ const trabajos = [
 		id: 2,
 		categoria: 'desarrollo-web',
 		thumb: {
-			url: '/assets/trabajos/desarrollo-1.png',
+			url: '/Porfolio/assets/trabajos/desarrollo-1.png',
 			alt: 'Trabajo 2',
 		},
 		info: {
@@ -54,7 +54,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/4.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/4.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -62,7 +62,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/5.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/5.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -77,7 +77,7 @@ const trabajos = [
 		id: 3,
 		categoria: 'aplicaciones-moviles',
 		thumb: {
-			url: '/assets/trabajos/apps-1.png',
+			url: '/Porfolio/assets/trabajos/apps-1.png',
 			alt: 'Trabajo 3',
 		},
 		info: {
@@ -91,7 +91,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/2.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/2.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -99,7 +99,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/3.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/3.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -114,7 +114,7 @@ const trabajos = [
 		id: 4,
 		categoria: 'desarrollo-software',
 		thumb: {
-			url: '/assets/trabajos/sofware-dev-1.png',
+			url: '/Porfolio/assets/trabajos/sofware-dev-1.png',
 			alt: 'Trabajo 4',
 		},
 		info: {
@@ -128,7 +128,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/2.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/2.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -136,7 +136,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/3.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/3.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -336,7 +336,7 @@ const trabajos = [
 		id: 10,
 		categoria: 'desarrollo-web',
 		thumb: {
-			url: '/assets/trabajos/desarrollo-3.png',
+			url: './assets/trabajos/desarrollo-3.png',
 			alt: 'Trabajo 10',
 		},
 		info: {
@@ -373,7 +373,7 @@ const trabajos = [
 		id: 11,
 		categoria: 'aplicaciones-moviles',
 		thumb: {
-			url: '/assets/trabajos/apps-3.png',
+			url: './assets/trabajos/apps-3.png',
 			alt: 'Trabajo 11',
 		},
 		info: {
@@ -410,7 +410,7 @@ const trabajos = [
 		id: 12,
 		categoria: 'desarrollo-software',
 		thumb: {
-			url: '/assets/trabajos/sofware-dev-3.png',
+			url: './assets/trabajos/sofware-dev-3.png',
 			alt: 'Trabajo 12',
 		},
 		info: {
