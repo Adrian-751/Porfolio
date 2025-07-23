@@ -188,7 +188,7 @@ const trabajos = [
 		id: 6,
 		categoria: 'desarrollo-web',
 		thumb: {
-			url: '/assets/trabajos/desarrollo-2.png',
+			url: '/Porfolio/assets/trabajos/desarrollo-2.png',
 			alt: 'Trabajo 6',
 		},
 		info: {
@@ -202,7 +202,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/2.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/2.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -210,7 +210,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/3.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/3.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -225,7 +225,7 @@ const trabajos = [
 		id: 7,
 		categoria: 'aplicaciones-moviles',
 		thumb: {
-			url: '/assets/trabajos/apps-2.png',
+			url: '/Porfolio/assets/trabajos/apps-2.png',
 			alt: 'Trabajo 7',
 		},
 		info: {
@@ -239,7 +239,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/2.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/2.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -247,7 +247,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/3.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/3.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -262,7 +262,7 @@ const trabajos = [
 		id: 8,
 		categoria: 'desarrollo-software',
 		thumb: {
-			url: '/assets/trabajos/sofware-dev-2.png',
+			url: '/Porfolio/assets/trabajos/sofware-dev-2.png',
 			alt: 'Trabajo 8',
 		},
 		info: {
@@ -276,7 +276,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/2.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/2.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
@@ -284,7 +284,7 @@ const trabajos = [
 						officiis provident?
 					</p>
 
-					<img loading="lazy" src="./assets/trabajos/3.png" alt="" />
+					<img loading="lazy" src="/Porfolio/assets/trabajos/3.png" alt="" />
 
 					<p>
 						Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas iste doloribus saepe voluptatem.
