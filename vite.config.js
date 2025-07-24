@@ -2,6 +2,6 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/Porfolio/',  // <--- muy importante para GitHub Pages si usas subcarpeta
+  base: '/Porfolio/', // usa el nombre del repo o carpeta base si no es /
   plugins: [react()],
 });

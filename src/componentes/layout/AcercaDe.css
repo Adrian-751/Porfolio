@@ -14,6 +14,7 @@
                 justify-content: flex-end;
                 position: sticky;
                 top: 20px;
+                margin-top: 40px;
 
                 .foto {
                     padding: 6px;
@@ -48,6 +49,7 @@
                 color: var(--primario);
                 font-size: 18px;
                 font-weight: 600;
+                margin-top: 40px;
             }
 
             .titulo {
