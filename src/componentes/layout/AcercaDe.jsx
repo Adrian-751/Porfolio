@@ -7,8 +7,8 @@ const AcercaDe = () => {
             <div className="grid">
                 <div className="col-1">
                     <div className="fotos">
-                        <img src="/Porfolio/assets/acerca-de-mi-1.png" className="foto" alt="foto mia" />
-                        <img src="/Porfolio/assets/acerca-de-2.png" className="foto" alt="foto" />
+                        <img src="./assets/acerca-de-mi-1.png" className="foto" alt="foto mia" />
+                        <img src="./assets/acerca-de-2.png" className="foto" alt="foto" />
                     </div>
                 </div>
                 <div className="col-2">
