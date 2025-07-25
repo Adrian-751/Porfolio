@@ -3,7 +3,7 @@ const trabajos = [
 		id: 1,
 		categoria: 'diseño-web',
 		thumb: {
-			url: '/Porfolio/assets/trabajos/diseño-1.png',
+			url: './assets/trabajos/diseño-1.png',
 			alt: 'Trabajo 1',
 		},
 		info: {
@@ -40,7 +40,7 @@ const trabajos = [
 		id: 2,
 		categoria: 'desarrollo-web',
 		thumb: {
-			url: '/Porfolio/assets/trabajos/desarrollo-1.png',
+			url: './assets/trabajos/desarrollo-1.png',
 			alt: 'Trabajo 2',
 		},
 		info: {
@@ -77,7 +77,7 @@ const trabajos = [
 		id: 3,
 		categoria: 'aplicaciones-moviles',
 		thumb: {
-			url: '/Porfolio/assets/trabajos/apps-1.png',
+			url: './assets/trabajos/apps-1.png',
 			alt: 'Trabajo 3',
 		},
 		info: {
@@ -114,7 +114,7 @@ const trabajos = [
 		id: 4,
 		categoria: 'desarrollo-software',
 		thumb: {
-			url: '/Porfolio/assets/trabajos/sofware-dev-1.png',
+			url: './assets/trabajos/sofware-dev-1.png',
 			alt: 'Trabajo 4',
 		},
 		info: {
@@ -188,7 +188,7 @@ const trabajos = [
 		id: 6,
 		categoria: 'desarrollo-web',
 		thumb: {
-			url: '/Porfolio/assets/trabajos/desarrollo-2.png',
+			url: './assets/trabajos/desarrollo-2.png',
 			alt: 'Trabajo 6',
 		},
 		info: {
@@ -225,7 +225,7 @@ const trabajos = [
 		id: 7,
 		categoria: 'aplicaciones-moviles',
 		thumb: {
-			url: '/Porfolio/assets/trabajos/apps-2.png',
+			url: './assets/trabajos/apps-2.png',
 			alt: 'Trabajo 7',
 		},
 		info: {
@@ -262,7 +262,7 @@ const trabajos = [
 		id: 8,
 		categoria: 'desarrollo-software',
 		thumb: {
-			url: '/Porfolio/assets/trabajos/sofware-dev-2.png',
+			url: './assets/trabajos/sofware-dev-2.png',
 			alt: 'Trabajo 8',
 		},
 		info: {
