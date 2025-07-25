@@ -1,4 +1,6 @@
 .contacto {
+    margin-top: 60px;
+
     .formulario {
         width: 70%;
         display: grid;
@@ -82,9 +84,5 @@
                 }
             }
         }
-    }
-
-    .titulo {
-        margin-top: 100px;
     }
 }

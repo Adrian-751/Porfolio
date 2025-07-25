@@ -94,8 +94,7 @@ const Trabajos = () => {
                 </div>
             </section>
 
-            {estadoModal && <Modal closeModal={closeModal} trabajo={trabajoSeleccionado} />}
-
+            {estadoModal && (<Modal closeModal={closeModal} trabajo={trabajoSeleccionado} /> )}
 
         </>
     )

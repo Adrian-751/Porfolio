@@ -1,9 +1,9 @@
 import './Modal.css';
 
-const Modal = ({closeModal, trabajo}) => {
+const Modal = ({closeModal, trabajo, isOpen}) => {
     return (
         <>
-            <div className="overlay" id="overlay" onClick={closeModal}>
+            <div className={`overlay`} id="overlay" onClick={closeModal}>
                 <div className="modal">
                     <button className="boton-cerrar" id="btn-cerrar" onClick={closeModal}>
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
