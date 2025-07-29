@@ -12,8 +12,7 @@ const AcercaDe = () => {
                     </div>
                 </div>
                 <div className="col-2">
-                    <h4 className="pre-titulo">Acerca de mi</h4>
-                    <h3 className="titulo">La razon por la que deberias contratarme</h3>
+                    <h4 className="titulo">Acerca de mi</h4>
                     <p className="resumen">
                         Hola! Soy Adrian Rodriguez, un apasionado freelancer dedicado a convertir ideas en realidades.
                         Con un enfoque creativo y minucioso, transformo proyectos en experiencias unicas.

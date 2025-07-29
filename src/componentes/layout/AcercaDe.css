@@ -45,19 +45,10 @@
             align-items: start;
             gap: 20px;
 
-            .pre-titulo {
-                color: var(--primario);
-                font-size: 18px;
-                font-weight: 600;
-                margin-top: 40px;
-            }
-
             .titulo {
-                font-size: 26px;
-
-                .dark & {
-                    color: var(--shade-3);
-                }
+                color: var(--primario);
+                font-size: 22px;
+                margin-top: 40px;
             }
 
             .resumen {
@@ -99,7 +90,7 @@
                 .col-2 {
                     align-items: center;
 
-                    .pre-titulo, .titulo {
+                    .titulo {
                         text-align: center;
                     }
                 }
